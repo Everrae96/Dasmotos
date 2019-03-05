@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.logo {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.product-img {
+	float: left;
+	color: #E303F9;
+	margin-bottom: 7px;
+}
+.brush {
+	color: #F801F0;
+}
+h2 {
+	clear: left;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #F802EF;
+}
+p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+h3 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #21618B;
+}
+.copyright {
+	clear: left;
+}
